@@ -56,3 +56,10 @@ streamlit run app.py
 - `data_loader.py`: データ取得・前処理ロジック
 - `predictor.py`: 機械学習モデル（予測ロジック）
 - `requirements.txt`: 依存ライブラリ一覧
+
+## 画面構成
+<img width="2488" height="1336" alt="image" src="https://github.com/user-attachments/assets/05590bce-45d8-4ea7-9615-9f84cecde66d" />
+<img width="1875" height="1124" alt="image" src="https://github.com/user-attachments/assets/359792a5-4cd6-4ca7-89c3-f5705da911ea" />
+<img width="1814" height="1096" alt="image" src="https://github.com/user-attachments/assets/0884b2df-b748-47b4-b51c-d142dc9dfa44" />
+
+
